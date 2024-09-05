@@ -12,10 +12,8 @@ Clone the repository: git clone https://github.com/MojimoneY/coffee-landing-page
 Install dependencies: npm install
 Start the server: npm start
 Usage
-Open the Coffee Landing Page in your web browser: http://localhost:3000
+Open the Coffee Landing Page in your web browser: https://mojimoney.github.io/CoffeeLandingPage/Cofee.html
 Explore the page and learn more about the coffee brand
-License
-The Coffee Landing Page is licensed under the MIT License.
 
 Dependencies
 HTML5
